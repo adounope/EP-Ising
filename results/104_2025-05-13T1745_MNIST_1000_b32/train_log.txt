@@ -1,0 +1,401 @@
+beta=32	lr=1/8.0	batch_size = 1	num_walk = 2**(8.0 + 0.0)	rev_neal_temp = 64.0
+2025-05-13T17:45:54
+	epoch: 0	train_acc: 19.80%	val_acc: 37.50%	current_best
+2025-05-13T17:45:57
+	epoch: 1	train_acc: 52.20%	val_acc: 53.50%	current_best
+2025-05-13T17:46:01
+	epoch: 2	train_acc: 64.00%	val_acc: 59.00%	current_best
+2025-05-13T17:46:03
+	epoch: 3	train_acc: 71.80%	val_acc: 62.50%	current_best
+2025-05-13T17:46:06
+	epoch: 4	train_acc: 74.10%	val_acc: 62.50%
+2025-05-13T17:46:09
+	epoch: 5	train_acc: 76.80%	val_acc: 66.00%	current_best
+2025-05-13T17:46:11
+	epoch: 6	train_acc: 81.40%	val_acc: 66.50%	current_best
+2025-05-13T17:46:14
+	epoch: 7	train_acc: 81.80%	val_acc: 70.00%	current_best
+2025-05-13T17:46:16
+	epoch: 8	train_acc: 82.20%	val_acc: 69.50%
+2025-05-13T17:46:19
+	epoch: 9	train_acc: 84.40%	val_acc: 68.50%
+2025-05-13T17:46:21
+	epoch: 10	train_acc: 84.60%	val_acc: 71.50%	current_best
+2025-05-13T17:46:26
+	epoch: 11	train_acc: 86.30%	val_acc: 67.50%
+2025-05-13T17:46:29
+	epoch: 12	train_acc: 88.10%	val_acc: 70.00%
+2025-05-13T17:46:31
+	epoch: 13	train_acc: 87.40%	val_acc: 70.50%
+2025-05-13T17:46:34
+	epoch: 14	train_acc: 89.50%	val_acc: 71.50%
+2025-05-13T17:46:37
+	epoch: 15	train_acc: 89.40%	val_acc: 72.00%	current_best
+2025-05-13T17:46:39
+	epoch: 16	train_acc: 91.30%	val_acc: 70.00%
+2025-05-13T17:46:42
+	epoch: 17	train_acc: 89.60%	val_acc: 71.50%
+2025-05-13T17:46:45
+	epoch: 18	train_acc: 90.60%	val_acc: 74.50%	current_best
+2025-05-13T17:46:48
+	epoch: 19	train_acc: 91.20%	val_acc: 73.50%
+2025-05-13T17:46:50
+	epoch: 20	train_acc: 92.10%	val_acc: 74.50%
+2025-05-13T17:46:53
+	epoch: 21	train_acc: 93.40%	val_acc: 75.50%	current_best
+2025-05-13T17:46:55
+	epoch: 22	train_acc: 92.90%	val_acc: 74.00%
+2025-05-13T17:46:59
+	epoch: 23	train_acc: 92.40%	val_acc: 70.00%
+2025-05-13T17:47:02
+	epoch: 24	train_acc: 91.10%	val_acc: 75.50%
+2025-05-13T17:47:04
+	epoch: 25	train_acc: 93.70%	val_acc: 70.50%
+2025-05-13T17:47:07
+	epoch: 26	train_acc: 92.50%	val_acc: 74.50%
+2025-05-13T17:47:09
+	epoch: 27	train_acc: 94.50%	val_acc: 76.00%	current_best
+2025-05-13T17:47:12
+	epoch: 28	train_acc: 92.30%	val_acc: 74.50%
+2025-05-13T17:47:14
+	epoch: 29	train_acc: 94.70%	val_acc: 75.00%
+2025-05-13T17:47:17
+	epoch: 30	train_acc: 94.70%	val_acc: 75.50%
+2025-05-13T17:47:19
+	epoch: 31	train_acc: 93.50%	val_acc: 80.00%	current_best
+2025-05-13T17:47:22
+	epoch: 32	train_acc: 94.60%	val_acc: 77.00%
+2025-05-13T17:47:25
+	epoch: 33	train_acc: 95.10%	val_acc: 76.00%
+2025-05-13T17:47:27
+	epoch: 34	train_acc: 94.40%	val_acc: 76.50%
+2025-05-13T17:47:30
+	epoch: 35	train_acc: 96.00%	val_acc: 76.50%
+2025-05-13T17:47:34
+	epoch: 36	train_acc: 95.70%	val_acc: 75.50%
+2025-05-13T17:47:36
+	epoch: 37	train_acc: 95.80%	val_acc: 75.50%
+2025-05-13T17:47:39
+	epoch: 38	train_acc: 96.40%	val_acc: 76.00%
+2025-05-13T17:47:41
+	epoch: 39	train_acc: 95.10%	val_acc: 75.50%
+2025-05-13T17:47:44
+	epoch: 40	train_acc: 95.80%	val_acc: 74.00%
+2025-05-13T17:47:46
+	epoch: 41	train_acc: 96.70%	val_acc: 77.50%
+2025-05-13T17:47:49
+	epoch: 42	train_acc: 95.30%	val_acc: 77.00%
+2025-05-13T17:47:51
+	epoch: 43	train_acc: 96.80%	val_acc: 76.00%
+2025-05-13T17:47:54
+	epoch: 44	train_acc: 96.30%	val_acc: 77.50%
+2025-05-13T17:47:56
+	epoch: 45	train_acc: 97.80%	val_acc: 75.50%
+2025-05-13T17:47:58
+	epoch: 46	train_acc: 96.60%	val_acc: 76.00%
+2025-05-13T17:48:01
+	epoch: 47	train_acc: 96.80%	val_acc: 75.00%
+2025-05-13T17:48:03
+	epoch: 48	train_acc: 96.40%	val_acc: 76.50%
+2025-05-13T17:48:08
+	epoch: 49	train_acc: 96.10%	val_acc: 77.50%
+2025-05-13T17:48:10
+	epoch: 50	train_acc: 96.40%	val_acc: 74.00%
+2025-05-13T17:48:12
+	epoch: 51	train_acc: 98.10%	val_acc: 74.50%
+2025-05-13T17:48:15
+	epoch: 52	train_acc: 97.00%	val_acc: 78.00%
+2025-05-13T17:48:17
+	epoch: 53	train_acc: 96.60%	val_acc: 76.00%
+2025-05-13T17:48:19
+	epoch: 54	train_acc: 97.30%	val_acc: 78.50%
+2025-05-13T17:48:22
+	epoch: 55	train_acc: 97.20%	val_acc: 75.00%
+2025-05-13T17:48:25
+	epoch: 56	train_acc: 97.30%	val_acc: 76.50%
+2025-05-13T17:48:28
+	epoch: 57	train_acc: 97.40%	val_acc: 78.00%
+2025-05-13T17:48:30
+	epoch: 58	train_acc: 97.90%	val_acc: 77.50%
+2025-05-13T17:48:32
+	epoch: 59	train_acc: 97.50%	val_acc: 78.50%
+2025-05-13T17:48:35
+	epoch: 60	train_acc: 97.70%	val_acc: 77.50%
+2025-05-13T17:48:37
+	epoch: 61	train_acc: 98.80%	val_acc: 76.00%
+2025-05-13T17:48:41
+	epoch: 62	train_acc: 98.10%	val_acc: 76.00%
+2025-05-13T17:48:43
+	epoch: 63	train_acc: 98.50%	val_acc: 75.00%
+2025-05-13T17:48:45
+	epoch: 64	train_acc: 98.20%	val_acc: 77.50%
+2025-05-13T17:48:48
+	epoch: 65	train_acc: 97.40%	val_acc: 77.00%
+2025-05-13T17:48:52
+	epoch: 66	train_acc: 98.60%	val_acc: 76.50%
+2025-05-13T17:48:54
+	epoch: 67	train_acc: 97.20%	val_acc: 79.00%
+2025-05-13T17:48:59
+	epoch: 68	train_acc: 97.90%	val_acc: 78.00%
+2025-05-13T17:49:04
+	epoch: 69	train_acc: 97.10%	val_acc: 76.00%
+2025-05-13T17:49:08
+	epoch: 70	train_acc: 98.30%	val_acc: 78.00%
+2025-05-13T17:49:13
+	epoch: 71	train_acc: 98.00%	val_acc: 75.50%
+2025-05-13T17:49:18
+	epoch: 72	train_acc: 98.20%	val_acc: 76.00%
+2025-05-13T17:49:22
+	epoch: 73	train_acc: 97.50%	val_acc: 77.00%
+2025-05-13T17:49:25
+	epoch: 74	train_acc: 96.90%	val_acc: 73.50%
+2025-05-13T17:49:27
+	epoch: 75	train_acc: 97.40%	val_acc: 77.00%
+2025-05-13T17:49:29
+	epoch: 76	train_acc: 97.80%	val_acc: 75.00%
+2025-05-13T17:49:31
+	epoch: 77	train_acc: 97.50%	val_acc: 79.00%
+2025-05-13T17:49:33
+	epoch: 78	train_acc: 98.10%	val_acc: 78.50%
+2025-05-13T17:49:35
+	epoch: 79	train_acc: 97.80%	val_acc: 78.00%
+2025-05-13T17:49:37
+	epoch: 80	train_acc: 98.30%	val_acc: 78.00%
+2025-05-13T17:49:40
+	epoch: 81	train_acc: 97.40%	val_acc: 76.50%
+2025-05-13T17:49:42
+	epoch: 82	train_acc: 97.80%	val_acc: 78.50%
+2025-05-13T17:49:44
+	epoch: 83	train_acc: 98.00%	val_acc: 76.50%
+2025-05-13T17:49:46
+	epoch: 84	train_acc: 98.30%	val_acc: 77.00%
+2025-05-13T17:49:50
+	epoch: 85	train_acc: 98.80%	val_acc: 77.00%
+2025-05-13T17:49:52
+	epoch: 86	train_acc: 99.00%	val_acc: 80.00%
+2025-05-13T17:49:54
+	epoch: 87	train_acc: 97.40%	val_acc: 76.50%
+2025-05-13T17:49:57
+	epoch: 88	train_acc: 96.80%	val_acc: 78.00%
+2025-05-13T17:49:59
+	epoch: 89	train_acc: 98.70%	val_acc: 76.50%
+2025-05-13T17:50:01
+	epoch: 90	train_acc: 98.60%	val_acc: 78.00%
+2025-05-13T17:50:03
+	epoch: 91	train_acc: 98.50%	val_acc: 76.00%
+2025-05-13T17:50:06
+	epoch: 92	train_acc: 98.40%	val_acc: 78.50%
+2025-05-13T17:50:08
+	epoch: 93	train_acc: 98.70%	val_acc: 79.50%
+2025-05-13T17:50:10
+	epoch: 94	train_acc: 98.60%	val_acc: 77.00%
+2025-05-13T17:50:12
+	epoch: 95	train_acc: 98.40%	val_acc: 76.50%
+2025-05-13T17:50:14
+	epoch: 96	train_acc: 98.00%	val_acc: 78.50%
+2025-05-13T17:50:17
+	epoch: 97	train_acc: 98.60%	val_acc: 76.50%
+2025-05-13T17:50:19
+	epoch: 98	train_acc: 98.80%	val_acc: 76.50%
+2025-05-13T17:50:21
+	epoch: 99	train_acc: 97.60%	val_acc: 80.00%
+2025-05-13T17:50:25
+	epoch: 100	train_acc: 98.10%	val_acc: 77.50%
+2025-05-13T17:50:28
+	epoch: 101	train_acc: 98.50%	val_acc: 77.00%
+2025-05-13T17:50:30
+	epoch: 102	train_acc: 98.30%	val_acc: 78.00%
+2025-05-13T17:50:32
+	epoch: 103	train_acc: 99.00%	val_acc: 77.50%
+2025-05-13T17:50:34
+	epoch: 104	train_acc: 97.60%	val_acc: 75.50%
+2025-05-13T17:50:36
+	epoch: 105	train_acc: 98.50%	val_acc: 76.50%
+2025-05-13T17:50:39
+	epoch: 106	train_acc: 98.30%	val_acc: 78.00%
+2025-05-13T17:50:41
+	epoch: 107	train_acc: 98.70%	val_acc: 77.00%
+2025-05-13T17:50:43
+	epoch: 108	train_acc: 99.30%	val_acc: 79.50%
+2025-05-13T17:50:45
+	epoch: 109	train_acc: 98.50%	val_acc: 78.50%
+2025-05-13T17:50:47
+	epoch: 110	train_acc: 99.00%	val_acc: 78.00%
+2025-05-13T17:50:49
+	epoch: 111	train_acc: 98.50%	val_acc: 76.00%
+2025-05-13T17:50:51
+	epoch: 112	train_acc: 98.70%	val_acc: 75.50%
+2025-05-13T17:50:54
+	epoch: 113	train_acc: 98.20%	val_acc: 75.00%
+2025-05-13T17:50:58
+	epoch: 114	train_acc: 98.60%	val_acc: 76.00%
+2025-05-13T17:51:01
+	epoch: 115	train_acc: 99.30%	val_acc: 78.50%
+2025-05-13T17:51:03
+	epoch: 116	train_acc: 99.10%	val_acc: 78.00%
+2025-05-13T17:51:05
+	epoch: 117	train_acc: 98.30%	val_acc: 78.00%
+2025-05-13T17:51:07
+	epoch: 118	train_acc: 99.10%	val_acc: 80.00%
+2025-05-13T17:51:09
+	epoch: 119	train_acc: 99.10%	val_acc: 77.00%
+2025-05-13T17:51:11
+	epoch: 120	train_acc: 98.70%	val_acc: 78.00%
+2025-05-13T17:51:19
+	epoch: 121	train_acc: 98.50%	val_acc: 74.00%
+2025-05-13T17:51:21
+	epoch: 122	train_acc: 97.90%	val_acc: 76.50%
+2025-05-13T17:51:23
+	epoch: 123	train_acc: 98.60%	val_acc: 77.50%
+2025-05-13T17:51:25
+	epoch: 124	train_acc: 97.90%	val_acc: 76.50%
+2025-05-13T17:51:27
+	epoch: 125	train_acc: 98.80%	val_acc: 77.00%
+2025-05-13T17:51:29
+	epoch: 126	train_acc: 99.60%	val_acc: 78.00%
+2025-05-13T17:51:33
+	epoch: 127	train_acc: 99.40%	val_acc: 76.50%
+2025-05-13T17:51:35
+	epoch: 128	train_acc: 98.70%	val_acc: 80.00%
+2025-05-13T17:51:37
+	epoch: 129	train_acc: 99.40%	val_acc: 79.50%
+2025-05-13T17:51:39
+	epoch: 130	train_acc: 99.00%	val_acc: 74.50%
+2025-05-13T17:51:41
+	epoch: 131	train_acc: 98.20%	val_acc: 78.00%
+2025-05-13T17:51:43
+	epoch: 132	train_acc: 99.20%	val_acc: 79.50%
+2025-05-13T17:51:45
+	epoch: 133	train_acc: 98.60%	val_acc: 80.00%
+2025-05-13T17:51:47
+	epoch: 134	train_acc: 99.30%	val_acc: 79.00%
+2025-05-13T17:51:48
+	epoch: 135	train_acc: 99.30%	val_acc: 75.50%
+2025-05-13T17:51:50
+	epoch: 136	train_acc: 98.70%	val_acc: 79.50%
+2025-05-13T17:51:52
+	epoch: 137	train_acc: 98.90%	val_acc: 76.50%
+2025-05-13T17:51:54
+	epoch: 138	train_acc: 99.00%	val_acc: 78.00%
+2025-05-13T17:51:56
+	epoch: 139	train_acc: 98.70%	val_acc: 78.50%
+2025-05-13T17:51:58
+	epoch: 140	train_acc: 99.30%	val_acc: 81.00%	current_best
+2025-05-13T17:52:00
+	epoch: 141	train_acc: 99.00%	val_acc: 77.00%
+2025-05-13T17:52:01
+	epoch: 142	train_acc: 98.80%	val_acc: 79.00%
+2025-05-13T17:52:03
+	epoch: 143	train_acc: 98.80%	val_acc: 77.00%
+2025-05-13T17:52:19
+	epoch: 144	train_acc: 99.40%	val_acc: 79.50%
+2025-05-13T17:52:21
+	epoch: 145	train_acc: 98.50%	val_acc: 78.50%
+2025-05-13T17:52:23
+	epoch: 146	train_acc: 98.70%	val_acc: 78.50%
+2025-05-13T17:52:25
+	epoch: 147	train_acc: 99.70%	val_acc: 79.50%
+2025-05-13T17:52:27
+	epoch: 148	train_acc: 99.00%	val_acc: 77.00%
+2025-05-13T17:52:29
+	epoch: 149	train_acc: 99.10%	val_acc: 79.00%
+2025-05-13T17:52:31
+	epoch: 150	train_acc: 98.80%	val_acc: 80.50%
+2025-05-13T17:52:33
+	epoch: 151	train_acc: 98.60%	val_acc: 78.00%
+2025-05-13T17:52:35
+	epoch: 152	train_acc: 99.30%	val_acc: 78.50%
+2025-05-13T17:52:37
+	epoch: 153	train_acc: 99.00%	val_acc: 77.00%
+2025-05-13T17:52:41
+	epoch: 154	train_acc: 99.20%	val_acc: 77.00%
+2025-05-13T17:52:44
+	epoch: 155	train_acc: 98.60%	val_acc: 78.50%
+2025-05-13T17:52:46
+	epoch: 156	train_acc: 98.40%	val_acc: 80.00%
+2025-05-13T17:52:48
+	epoch: 157	train_acc: 99.50%	val_acc: 79.50%
+2025-05-13T17:52:50
+	epoch: 158	train_acc: 99.30%	val_acc: 79.00%
+2025-05-13T17:52:52
+	epoch: 159	train_acc: 99.00%	val_acc: 76.50%
+2025-05-13T17:52:53
+	epoch: 160	train_acc: 99.90%	val_acc: 79.00%
+2025-05-13T17:52:55
+	epoch: 161	train_acc: 99.30%	val_acc: 78.50%
+2025-05-13T17:52:57
+	epoch: 162	train_acc: 99.50%	val_acc: 79.50%
+2025-05-13T17:53:00
+	epoch: 163	train_acc: 99.00%	val_acc: 77.00%
+2025-05-13T17:53:03
+	epoch: 164	train_acc: 99.40%	val_acc: 77.00%
+2025-05-13T17:53:05
+	epoch: 165	train_acc: 98.50%	val_acc: 79.00%
+2025-05-13T17:53:20
+	epoch: 166	train_acc: 99.10%	val_acc: 80.50%
+2025-05-13T17:53:22
+	epoch: 167	train_acc: 99.20%	val_acc: 76.50%
+2025-05-13T17:53:24
+	epoch: 168	train_acc: 99.10%	val_acc: 80.00%
+2025-05-13T17:53:26
+	epoch: 169	train_acc: 99.10%	val_acc: 78.00%
+2025-05-13T17:53:27
+	epoch: 170	train_acc: 99.00%	val_acc: 78.50%
+2025-05-13T17:53:29
+	epoch: 171	train_acc: 98.50%	val_acc: 78.00%
+2025-05-13T17:53:31
+	epoch: 172	train_acc: 99.10%	val_acc: 77.50%
+2025-05-13T17:53:33
+	epoch: 173	train_acc: 99.10%	val_acc: 78.50%
+2025-05-13T17:53:35
+	epoch: 174	train_acc: 99.40%	val_acc: 77.50%
+2025-05-13T17:53:36
+	epoch: 175	train_acc: 99.50%	val_acc: 77.00%
+2025-05-13T17:53:38
+	epoch: 176	train_acc: 99.30%	val_acc: 77.00%
+2025-05-13T17:53:40
+	epoch: 177	train_acc: 99.40%	val_acc: 77.00%
+2025-05-13T17:53:42
+	epoch: 178	train_acc: 99.10%	val_acc: 77.00%
+2025-05-13T17:53:44
+	epoch: 179	train_acc: 99.50%	val_acc: 77.50%
+2025-05-13T17:53:45
+	epoch: 180	train_acc: 99.70%	val_acc: 80.00%
+2025-05-13T17:53:49
+	epoch: 181	train_acc: 99.20%	val_acc: 78.50%
+2025-05-13T17:53:52
+	epoch: 182	train_acc: 99.50%	val_acc: 76.00%
+2025-05-13T17:53:55
+	epoch: 183	train_acc: 99.50%	val_acc: 79.50%
+2025-05-13T17:53:57
+	epoch: 184	train_acc: 99.40%	val_acc: 77.00%
+2025-05-13T17:53:59
+	epoch: 185	train_acc: 98.70%	val_acc: 79.00%
+2025-05-13T17:54:01
+	epoch: 186	train_acc: 99.20%	val_acc: 78.00%
+2025-05-13T17:54:03
+	epoch: 187	train_acc: 99.00%	val_acc: 78.00%
+2025-05-13T17:54:05
+	epoch: 188	train_acc: 98.80%	val_acc: 77.00%
+2025-05-13T17:54:07
+	epoch: 189	train_acc: 99.50%	val_acc: 80.00%
+2025-05-13T17:54:19
+	epoch: 190	train_acc: 99.10%	val_acc: 76.00%
+2025-05-13T17:54:24
+	epoch: 191	train_acc: 99.30%	val_acc: 80.00%
+2025-05-13T17:54:26
+	epoch: 192	train_acc: 99.20%	val_acc: 78.00%
+2025-05-13T17:54:29
+	epoch: 193	train_acc: 99.70%	val_acc: 79.00%
+2025-05-13T17:54:31
+	epoch: 194	train_acc: 99.60%	val_acc: 79.00%
+2025-05-13T17:54:33
+	epoch: 195	train_acc: 99.80%	val_acc: 79.50%
+2025-05-13T17:54:34
+	epoch: 196	train_acc: 99.40%	val_acc: 77.00%
+2025-05-13T17:54:36
+	epoch: 197	train_acc: 99.30%	val_acc: 77.50%
+2025-05-13T17:54:38
+	epoch: 198	train_acc: 99.40%	val_acc: 78.00%
+2025-05-13T17:54:40
+	epoch: 199	train_acc: 99.60%	val_acc: 77.00%
