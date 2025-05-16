@@ -1,0 +1,101 @@
+beta=8	lr=1/128.0	batch_size = 1	num_walk = 2**(4.0 + 0.0)	rev_neal_temp = 64.0
+2025-05-15T22:43:08
+	epoch: 0	train_acc: 2.60%	val_acc: 5.50%	reconstruction_loss: 30.004081632652984%	best_Acc
+2025-05-15T22:43:14
+	epoch: 1	train_acc: 5.60%	val_acc: 7.00%	reconstruction_loss: 27.518877551020367%	best_Acc
+2025-05-15T22:43:20
+	epoch: 2	train_acc: 7.20%	val_acc: 8.50%	reconstruction_loss: 27.437755102040782%	best_Acc
+2025-05-15T22:43:26
+	epoch: 3	train_acc: 8.20%	val_acc: 10.50%	reconstruction_loss: 27.44489795918365%	best_Acc
+2025-05-15T22:43:32
+	epoch: 4	train_acc: 10.20%	val_acc: 8.00%	reconstruction_loss: 26.99336734693876%	best_Loss
+2025-05-15T22:43:38
+	epoch: 5	train_acc: 11.00%	val_acc: 11.00%	reconstruction_loss: 27.269387755102038%	best_Acc
+2025-05-15T22:43:44
+	epoch: 6	train_acc: 12.10%	val_acc: 12.00%	reconstruction_loss: 27.074489795918332%	best_Acc
+2025-05-15T22:43:51
+	epoch: 7	train_acc: 12.80%	val_acc: 13.00%	reconstruction_loss: 27.067346938775465%	best_Acc
+2025-05-15T22:43:57
+	epoch: 8	train_acc: 13.50%	val_acc: 16.00%	reconstruction_loss: 26.68010204081629%	best_Acc
+2025-05-15T22:44:05
+	epoch: 9	train_acc: 13.40%	val_acc: 14.50%	reconstruction_loss: 26.904081632653025%	best_Loss
+2025-05-15T22:44:11
+	epoch: 10	train_acc: 14.20%	val_acc: 17.50%	reconstruction_loss: 26.859693877551006%	best_Acc
+2025-05-15T22:44:17
+	epoch: 11	train_acc: 15.40%	val_acc: 18.50%	reconstruction_loss: 26.786224489795895%	best_Acc
+2025-05-15T22:44:24
+	epoch: 12	train_acc: 15.10%	val_acc: 17.50%	reconstruction_loss: 26.741326530612223%	best_Loss
+2025-05-15T22:44:30
+	epoch: 13	train_acc: 17.30%	val_acc: 21.00%	reconstruction_loss: 26.66938775510202%	best_Acc
+2025-05-15T22:44:36
+	epoch: 14	train_acc: 16.40%	val_acc: 16.00%	reconstruction_loss: 26.554591836734676%	best_Loss
+2025-05-15T22:44:43
+	epoch: 15	train_acc: 17.60%	val_acc: 18.00%	reconstruction_loss: 26.67959183673463%
+2025-05-15T22:44:48
+	epoch: 16	train_acc: 18.20%	val_acc: 20.50%	reconstruction_loss: 26.78673469387754%
+2025-05-15T22:44:54
+	epoch: 17	train_acc: 17.80%	val_acc: 14.50%	reconstruction_loss: 26.502551020408138%	best_Loss
+2025-05-15T22:45:00
+	epoch: 18	train_acc: 18.60%	val_acc: 19.50%	reconstruction_loss: 26.736734693877523%
+2025-05-15T22:45:06
+	epoch: 19	train_acc: 20.40%	val_acc: 23.00%	reconstruction_loss: 26.65816326530608%	best_Acc
+2025-05-15T22:45:12
+	epoch: 20	train_acc: 19.70%	val_acc: 23.00%	reconstruction_loss: 26.402040816326505%	best_Loss
+2025-05-15T22:45:18
+	epoch: 21	train_acc: 20.10%	val_acc: 19.50%	reconstruction_loss: 26.641326530612236%
+2025-05-15T22:45:24
+	epoch: 22	train_acc: 20.90%	val_acc: 22.50%	reconstruction_loss: 26.334693877551008%	best_Loss
+2025-05-15T22:45:30
+	epoch: 23	train_acc: 18.70%	val_acc: 17.50%	reconstruction_loss: 26.58061224489793%
+2025-05-15T22:45:35
+	epoch: 24	train_acc: 20.50%	val_acc: 20.50%	reconstruction_loss: 26.52448979591834%
+2025-05-15T22:45:41
+	epoch: 25	train_acc: 19.70%	val_acc: 18.50%	reconstruction_loss: 26.32755102040815%	best_Loss
+2025-05-15T22:45:48
+	epoch: 26	train_acc: 20.50%	val_acc: 19.50%	reconstruction_loss: 26.63112244897956%
+2025-05-15T22:45:54
+	epoch: 27	train_acc: 19.90%	val_acc: 27.00%	reconstruction_loss: 26.418367346938744%	best_Acc
+2025-05-15T22:45:59
+	epoch: 28	train_acc: 21.70%	val_acc: 22.50%	reconstruction_loss: 26.345408163265287%
+2025-05-15T22:46:05
+	epoch: 29	train_acc: 21.20%	val_acc: 19.50%	reconstruction_loss: 26.426530612244875%
+2025-05-15T22:46:11
+	epoch: 30	train_acc: 20.70%	val_acc: 19.00%	reconstruction_loss: 26.285714285714263%	best_Loss
+2025-05-15T22:46:18
+	epoch: 31	train_acc: 21.30%	val_acc: 22.00%	reconstruction_loss: 26.36326530612243%
+2025-05-15T22:46:23
+	epoch: 32	train_acc: 20.50%	val_acc: 24.00%	reconstruction_loss: 26.274999999999988%	best_Loss
+2025-05-15T22:46:30
+	epoch: 33	train_acc: 21.80%	val_acc: 26.00%	reconstruction_loss: 26.359693877551%
+2025-05-15T22:46:37
+	epoch: 34	train_acc: 22.50%	val_acc: 23.00%	reconstruction_loss: 26.315306122448984%
+2025-05-15T22:46:43
+	epoch: 35	train_acc: 23.40%	val_acc: 25.50%	reconstruction_loss: 26.27244897959181%	best_Loss
+2025-05-15T22:46:50
+	epoch: 36	train_acc: 21.60%	val_acc: 19.00%	reconstruction_loss: 26.359183673469357%
+2025-05-15T22:46:57
+	epoch: 37	train_acc: 22.60%	val_acc: 18.50%	reconstruction_loss: 26.317346938775476%
+2025-05-15T22:47:05
+	epoch: 38	train_acc: 21.00%	val_acc: 20.50%	reconstruction_loss: 26.47244897959181%
+2025-05-15T22:47:16
+	epoch: 39	train_acc: 21.40%	val_acc: 21.50%	reconstruction_loss: 26.334693877551%
+2025-05-15T22:47:25
+	epoch: 40	train_acc: 22.80%	val_acc: 26.00%	reconstruction_loss: 26.319897959183653%
+2025-05-15T22:47:37
+	epoch: 41	train_acc: 22.60%	val_acc: 18.00%	reconstruction_loss: 26.269387755102013%	best_Loss
+2025-05-15T22:47:45
+	epoch: 42	train_acc: 21.30%	val_acc: 18.00%	reconstruction_loss: 26.415306122448957%
+2025-05-15T22:47:52
+	epoch: 43	train_acc: 22.50%	val_acc: 19.50%	reconstruction_loss: 26.20561224489793%	best_Loss
+2025-05-15T22:47:59
+	epoch: 44	train_acc: 22.20%	val_acc: 19.50%	reconstruction_loss: 26.226530612244886%
+2025-05-15T22:48:06
+	epoch: 45	train_acc: 22.40%	val_acc: 21.00%	reconstruction_loss: 26.262244897959153%
+2025-05-15T22:48:11
+	epoch: 46	train_acc: 23.30%	val_acc: 21.00%	reconstruction_loss: 26.27806122448978%
+2025-05-15T22:48:17
+	epoch: 47	train_acc: 22.90%	val_acc: 21.00%	reconstruction_loss: 26.32551020408161%
+2025-05-15T22:48:23
+	epoch: 48	train_acc: 23.80%	val_acc: 23.00%	reconstruction_loss: 26.434183673469374%
+2025-05-15T22:48:29
+	epoch: 49	train_acc: 22.80%	val_acc: 15.00%	reconstruction_loss: 26.201530612244895%	best_Loss
