@@ -5,3 +5,7 @@ prepare train data by runnnig all code in dataset.ipynb
 run main.py to train forward only model
 
 run main_bi.py to bi-directionally train model
+  to modify scale of both (effective learning rate and the initial interaction strength) between input-hidden layer, modify line 26
+    topology[  : i_s , i_s : i_s + h_s ] = topology.T[  : i_s , i_s : i_s + h_s ] = 1/5
+
+run ep_reverse_Gen_test.ipynb to generate reconstructed image from bi-directionally trained model
