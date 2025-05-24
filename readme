@@ -1,3 +1,6 @@
+Ising model trained by Equilibrium Propagatoin algorithm
+to perform image recognition / reconstruction on MNIST dataset
+
 Python3.9.21
 
 prepare train data by runnnig all code in dataset.ipynb
